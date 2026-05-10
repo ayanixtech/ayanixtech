@@ -180,7 +180,7 @@ const AyanSajed = {
 
 <div align="center">
 
-<img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanixtech&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=15&langs_count=8&custom_title=Languages+Used"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanixtech&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=ffffff&sideNums=00d4ff&dates=888888&border_radius=15"/>
 
 </div>
 
