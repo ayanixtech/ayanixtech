@@ -196,7 +196,7 @@ const AyanSajed = {
 
 | 🏅 Commits | 🏅 Repositories | 🌟 Stars | 👥 Followers |
 |:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/First_Commit-7pt-ff6b35?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/First_Repo-2pt-7b2fff?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/Stars-Growing_🚀-00d4ff?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/Followers-Building_⚡-ff9933?style=for-the-badge&labelColor=0d1117) |
+| ![](https://img.shields.io/badge/First_Commit-7pt-ff6b35?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/First_Repo-5pt-7b2fff?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/Stars-Growing-6pt-ff6b35?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/Followers-Building-8pt-ff6b35?style=for-the-badge&labelColor=0d1117) |
 
 > 🚀 **3 months • 27+ projects • 10-member team — trophies full hone wale hain!** ⚡
 
