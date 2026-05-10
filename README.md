@@ -39,7 +39,7 @@
 
 ## 🧠 About Me — Ayan Sajed Ansari
 
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0d5e2d8e4c2f08cde4eedd2673/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162623566626536623531622f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644f4f3166386d4c4f656e504566495939774b78774b4d304e756f67363532646e4a705a6e474d335a4f6476326f674b4d6a3933373634323533373439312d76312e706e67"/>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
 
 ```typescript
 const AyanSajed = {
@@ -196,9 +196,15 @@ const AyanSajed = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayanixtech&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayanixtech&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 
-> 🚀 **Just 3 months in — 27+ projects, 10-member team — trophies aa rahe hain full speed!** ⚡
+<br/>
+
+| 🏅 Commits | 🏅 Repositories | 🌟 Stars | 👥 Followers |
+|:---:|:---:|:---:|:---:|
+| ![](https://img.shields.io/badge/First_Commit-7pt-ff6b35?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/First_Repo-2pt-7b2fff?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/Stars-Growing_🚀-00d4ff?style=for-the-badge&labelColor=0d1117) | ![](https://img.shields.io/badge/Followers-Building_⚡-ff9933?style=for-the-badge&labelColor=0d1117) |
+
+> 🚀 **3 months • 27+ projects • 10-member team — trophies full hone wale hain!** ⚡
 
 </div>
 
@@ -207,6 +213,8 @@ const AyanSajed = {
 ## 🐍 Contribution Snake
 
 <div align="center">
+
+> ⚙️ *Run the **Generate Snake** workflow from Actions tab to activate!*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayanixtech/ayanixtech/output/github-contribution-grid-snake-dark.svg"/>
@@ -234,31 +242,37 @@ const AyanSajed = {
 
 ### 🏦 Rayat Seva Urban Co-op — Live Client Project
 
-[![Visit Live](https://img.shields.io/badge/🏦_Rayat_Seva_Urban-rayatsevaurban.in-00d4ff?style=for-the-badge&labelColor=0d1117)](https://rayatsevaurban.in)
+[![Visit Live](https://img.shields.io/badge/🏦_Rayat_Seva_Urban-rayatsevaurban.in_✅_LIVE-00d4ff?style=for-the-badge&labelColor=0d1117)](https://rayatsevaurban.in)
 ![Stack](https://img.shields.io/badge/React+TypeScript+Vite+Tailwind-7b2fff?style=for-the-badge&labelColor=0d1117)
 
-> Cooperative bank website — 6 loan categories, 4 deposit schemes. Built by full Ayanix team. **LIVE ✅**
+> Cooperative bank website — 6 loan categories, 4 deposit schemes, regulatory pages. Built by full Ayanix team.
 
 ---
 
 ### 🌐 Ayanix Tech — Company Website
 
-[![Visit Live](https://img.shields.io/badge/🌐_Ayanix_Tech-ayanixtech.com-00d4ff?style=for-the-badge&labelColor=0d1117)](https://www.ayanixtech.com)
+[![Visit Live](https://img.shields.io/badge/🌐_Ayanix_Tech-ayanixtech.com_✅_LIVE-00d4ff?style=for-the-badge&labelColor=0d1117)](https://www.ayanixtech.com)
 ![Stack](https://img.shields.io/badge/Next.js+TypeScript+Framer+Motion-7b2fff?style=for-the-badge&labelColor=0d1117)
 
-> Cinematic hero, 10 member profiles, pricing, consultation booking, SEO for 10+ Indian cities. **LIVE ✅**
+> Cinematic hero, 10 member profiles, pricing, SEO targeting 10+ Indian cities.
 
 ---
 
-### 📦 GitHub Repos
+### 🏫 School ERP — In Progress
 
-<a href="https://github.com/ayanixtech/school-erp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayanixtech&repo=school-erp&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=7b2fff&border_radius=15" />
-</a>
-&nbsp;
-<a href="https://github.com/ayanixtech/easy-study-with-ayanix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ayanixtech&repo=easy-study-with-ayanix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=7b2fff&border_radius=15" />
-</a>
+[![Visit](https://img.shields.io/badge/🏫_School_ERP-View_on_Vercel-00d4ff?style=for-the-badge&labelColor=0d1117)](https://school-erp-kohl-eight.vercel.app)
+![Stack](https://img.shields.io/badge/React+Node.js+MongoDB+Express-7b2fff?style=for-the-badge&labelColor=0d1117)
+
+> Student records, attendance, fee management, academic reporting. 4-dev agile squad.
+
+---
+
+### 📚 Easy Study With Ayanix
+
+[![Visit](https://img.shields.io/badge/📚_Easy_Study-View_Project-00d4ff?style=for-the-badge&labelColor=0d1117)](https://github.com/ayanixtech/easy-study-with-ayanix)
+![Stack](https://img.shields.io/badge/HTML+CSS+JavaScript-7b2fff?style=for-the-badge&labelColor=0d1117)
+
+> Public educational project. Open source and growing.
 
 </div>
 
